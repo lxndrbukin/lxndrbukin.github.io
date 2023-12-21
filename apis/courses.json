@@ -1,0 +1,23 @@
+[
+  {
+    "dates": "Feb 2021",
+    "name": "The Complete 2021 Web Development Bootcamp",
+    "desc": "At 62+ hours, this Web Development course is without a doubt the most comprehensive web development course available online. Even if you have zero programming experience, this course will take you from beginner to mastery.",
+    "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+    "langs": ["HTML", "CSS", "JavaScript", "Node", "React", "MongoDB"]
+  },
+  {
+    "dates": "May 2021",
+    "name": "The Modern Javascript Bootcamp",
+    "desc": "The Modern Javascript Bootcamp focuses on cutting through unnecessary information and giving you just the facts, plain and simple.",
+    "url": "https://www.udemy.com/course/javascript-beginners-complete-tutorial/",
+    "langs": ["JavaScript", "Node", "MongoDB"]
+  },
+  {
+    "dates": "Sep 2022",
+    "name": "Node with React: Fullstack Web Development",
+    "desc": "The Modern Javascript Bootcamp focuses on cutting through unnecessary information and giving you just the facts, plain and simple.",
+    "url": "https://www.udemy.com/course/node-with-react-fullstack-web-development/",
+    "langs": ["JavaScript", "Node", "React", "MongoDB"]
+  }
+]

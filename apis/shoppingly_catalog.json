@@ -4,13 +4,15 @@
     "sizes": ["XS", "S", "M"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0130657780200_030_e?$medium$&fit=constrain&fmt=webp&hei=1046&qlt=80&wid=698",
     "name": "Button-Down Midi Dress",
-    "price": 47.0
+    "for": "women",
+    "price": 47.25
   },
   {
     "id": 2,
     "sizes": ["S", "M"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0111617930001_055_b?$medium$&qlt=80&fit=constrain",
     "name": "Grey Gracie Dobby Shirt",
+    "for": "women",
     "price": 25.0
   },
   {
@@ -18,6 +20,7 @@
     "sizes": ["M", "L", "XL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0123593370282_020_d?$medium$&fit=constrain&fmt=webp&hei=1046&qlt=80&wid=698",
     "name": "Linen Cargo Pants",
+    "for": "women",
     "price": 65.0
   },
   {
@@ -25,13 +28,15 @@
     "sizes": ["M"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0180478120102_041_d?$medium$&fit=constrain&fmt=webp&hei=1046&qlt=80&wid=698",
     "name": "Navy Jungle Pants",
-    "price": 95.0
+    "for": "women",
+    "price": 95.45
   },
   {
     "id": 5,
     "sizes": ["L", "XL", "XXL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0225617930012_036_d?$medium$&fit=constrain&fmt=webp&hei=1046&qlt=80&wid=698",
     "name": "Cargo Shorts",
+    "for": "men",
     "price": 45.0
   },
   {
@@ -39,6 +44,7 @@
     "sizes": ["L", "XL", "XXL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0216345040055_004_d?$medium$&fit=constrain&fmt=webp&hei=1046&qlt=80&wid=698",
     "name": "Grey Zip-Through Track Top",
+    "for": "men",
     "price": 65.0
   },
   {
@@ -46,6 +52,7 @@
     "sizes": ["M", "L", "XL", "XXL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0215617930198_001_d?$medium$&fit=constrain&fmt=webp&hei=1046&qlt=80&wid=698",
     "name": "Striped Black Short Sleeve Shirt",
+    "for": "men",
     "price": 39.0
   },
   {
@@ -53,20 +60,23 @@
     "sizes": ["M", "L", "XL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0115920510046_040_b?$medium$&fit=constrain&hei=523&qlt=80&wid=349",
     "name": "Leather Motocross Jacket",
-    "price": 89.0
+    "for": "women",
+    "price": 89.99
   },
   {
     "id": 9,
     "sizes": ["M", "L"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0112341870059_005_b?$medium$&qlt=80&fit=constrain",
     "name": "Front Tank Top",
-    "price": 29.0
+    "for": "women",
+    "price": 29.95
   },
   {
     "id": 10,
     "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0130641640600_049_b?$medium$&qlt=80&fit=constrain",
     "name": "Flower Mesh Maxi Dress",
+    "for": "women",
     "price": 29.0
   },
   {
@@ -74,6 +84,7 @@
     "sizes": ["L", "XL", "XXL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0221939150008_001_b?$medium$&qlt=80&fit=constrain",
     "name": "Big T Classic Cargo Pants",
+    "for": "men",
     "price": 129.0
   },
   {
@@ -81,6 +92,7 @@
     "sizes": ["L", "XL", "XXL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0214345530390_040_b?$medium$&qlt=80&fit=constrain",
     "name": "Aqua Quiet Place T-Shirt",
+    "for": "men",
     "price": 32.0
   },
   {
@@ -88,6 +100,7 @@
     "sizes": ["L", "XL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0225688590038_004_b?$medium$&qlt=80&fit=constrain",
     "name": "Big Eddy Shorts",
+    "for": "men",
     "price": 60.0
   },
   {
@@ -95,6 +108,7 @@
     "sizes": ["L", "XL", "XXL"],
     "img": "https://imageseu.urbndata.com/is/image/UrbanOutfittersEU/0216902470025_020_b?$medium$&qlt=80&fit=constrain",
     "name": "Brown Oakport Hoodie",
+    "for": "men",
     "price": 60.0
   }
 ]

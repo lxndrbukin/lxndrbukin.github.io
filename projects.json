@@ -1,6 +1,12 @@
 [
   {
     "name": "Weatherly",
-    "stack": ["React", "TypeScript", "Redux", "Sass", "OpenWeather API"]
+    "img": "https://i.imgur.com/fIKksAI.png",
+    "stack": ["React", "TypeScript", "Redux", "Sass", "OpenWeather API"],
+    "desc": "A simple weather app created designed to show the current weather conditions as well as a 5-day forecast. Provides weather data based off the name of the city/location provided or the geographical position using the Geolocation API.",
+    "urls": {
+      "github": "https://github.com/lxndrbukin/weatherly-rts",
+      "live": "https://weatherly-rts.vercel.app/"
+    }
   }
 ]

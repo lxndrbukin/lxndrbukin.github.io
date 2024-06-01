@@ -1,0 +1,6 @@
+[
+  {
+    "name": "Weatherly",
+    "stack": ["React", "TypeScript", "Redux", "Sass", "OpenWeather API"]
+  }
+]

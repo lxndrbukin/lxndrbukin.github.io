@@ -1,12 +1,29 @@
 [
   {
     "name": "Weatherly",
-    "img": "https://i.imgur.com/fIKksAI.png",
+    "img": "https://imgur.com/SEeis1R.png",
     "stack": ["React", "TypeScript", "Redux", "Sass", "OpenWeather API"],
-    "desc": "A simple weather app created designed to show the current weather conditions as well as a 5-day forecast. Provides weather data based off the name of the city/location provided or the geographical position using the Geolocation API.",
+    "desc": "A simple weather app created and designed to show the current weather conditions as well as a 5-day forecast. Provides weather data based off the name of the city/location provided or the geographical position using the Geolocation API.",
     "urls": {
       "github": "https://github.com/lxndrbukin/weatherly-rts",
       "live": "https://weatherly-rts.vercel.app/"
+    }
+  },
+  {
+    "name": "uniSTORE",
+    "img": "https://imgur.com/vAB66qo.png",
+    "stack": [
+      "React",
+      "React Router",
+      "TypeScript",
+      "Redux",
+      "Sass",
+      "Commerce.JS"
+    ],
+    "desc": "Ecommerce website for Tech enthusiasts who love to explore and buy the latest and greatest tech. Commerce.JS is used on the backend for listing catalog items. <b>Project still in Development.</b>",
+    "urls": {
+      "github": "https://github.com/lxndrbukin/unistore",
+      "live": "https://unistore-ten.vercel.app/"
     }
   }
 ]

@@ -16,12 +16,16 @@
     "icon": "https://img.icons8.com/?size=256&id=uJM6fQYqDaZK&format=png"
   },
   {
-    "name": "ReactJS",
+    "name": "React",
     "icon": "https://img.icons8.com/?size=256&id=123603&format=png"
   },
   {
     "name": "NodeJS",
     "icon": "https://img.icons8.com/?size=256&id=hsPbhkOH4FMe&format=png"
+  },
+  {
+    "name": "ExpressJS",
+    "icon": "https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png"
   },
   {
     "name": "Git",

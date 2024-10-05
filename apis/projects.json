@@ -2,7 +2,7 @@
   {
     "name": "Password Generator",
     "production": true,
-    "img": "https://imgur.com/jLpCFOA",
+    "img": "https://i.imgur.com/jLpCFOA.png",
     "stack": ["HTML5", "CSS3", "JavaScript"],
     "desc": "The length of the password can be set manually, and all you have to do to copy the password is to click on it. Upon copying the password, message will be displayed, confirming the action.",
     "urls": {

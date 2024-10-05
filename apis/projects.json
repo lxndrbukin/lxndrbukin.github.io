@@ -1,16 +1,5 @@
 [
   {
-    "name": "Weatherly",
-    "production": true,
-    "img": "https://imgur.com/SEeis1R.png",
-    "stack": ["React", "TypeScript", "Redux", "Sass", "OpenWeather API"],
-    "desc": "A simple weather app created and designed to show the current weather conditions as well as a 5-day forecast. Provides weather data based off the name of the city/location provided or the geographical position using the Geolocation API.",
-    "urls": {
-      "github": "https://github.com/lxndrbukin/weatherly-rts",
-      "live": "https://weatherly-rts.vercel.app/"
-    }
-  },
-  {
     "name": "Password Generator",
     "production": true,
     "img": "https://imgur.com/a/26gtxDR",
@@ -19,6 +8,17 @@
     "urls": {
       "github": "https://github.com/lxndrbukin/password-generator",
       "live": "https://lxndrbukin.github.io/password-generator/"
+    }
+  },
+  {
+    "name": "Weatherly",
+    "production": true,
+    "img": "https://imgur.com/SEeis1R.png",
+    "stack": ["React", "TypeScript", "Redux", "Sass", "OpenWeather API"],
+    "desc": "A simple weather app created and designed to show the current weather conditions as well as a 5-day forecast. Provides weather data based off the name of the city/location provided or the geographical position using the Geolocation API.",
+    "urls": {
+      "github": "https://github.com/lxndrbukin/weatherly-rts",
+      "live": "https://weatherly-rts.vercel.app/"
     }
   },
   {

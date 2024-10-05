@@ -11,6 +11,17 @@
     }
   },
   {
+    "name": "Password Generator",
+    "production": true,
+    "img": "https://imgur.com/a/26gtxDR",
+    "stack": ["HTML5", "CSS3", "JavaScript"],
+    "desc": "Generate a unique random password 5 to 16 characters long.",
+    "urls": {
+      "github": "https://github.com/lxndrbukin/password-generator",
+      "live": "https://lxndrbukin.github.io/password-generator/"
+    }
+  },
+  {
     "name": "uniSTORE",
     "production": false,
     "img": "https://imgur.com/vAB66qo.png",

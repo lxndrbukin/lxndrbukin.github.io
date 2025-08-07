@@ -25,7 +25,11 @@
   },
   {
     "name": "ExpressJS",
-    "icon": "https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png"
+    "icon": "https://img.icons8.com/?size=512&id=9Gfx4Dfxl0JK&format=png"
+  },
+  {
+    "name": "Python",
+    "icon": "https://img.icons8.com/?size=256&id=13441&format=png"
   },
   {
     "name": "Git",
@@ -42,9 +46,5 @@
   {
     "name": "Sass",
     "icon": "https://img.icons8.com/?size=256&id=QBqFNfPPB2Kx&format=png"
-  },
-  {
-    "name": "Python",
-    "icon": "https://img.icons8.com/?size=256&id=13441&format=png"
   }
 ]

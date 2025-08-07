@@ -22,6 +22,19 @@
     }
   },
   {
+    "name": "Task Manager CLI",
+    "production": true,
+    "img": "https://imgur.com/iHnZCNg.png",
+    "stack": [
+      "Python"
+    ],
+    "desc": "A simple command-line interface (CLI) application for managing tasks, built with Python. This tool allows users to add, view, and delete tasks stored in a JSON file.",
+    "urls": {
+      "github": "https://github.com/lxndrbukin/todolistmanagercli",
+      "live": "https://github.com/lxndrbukin/todolistmanagercli"
+    }
+  },
+  {
     "name": "uniSTORE",
     "production": false,
     "img": "https://imgur.com/vAB66qo.png",
@@ -39,17 +52,4 @@
       "live": "https://unistore-ten.vercel.app/"
     }
   },
-  {
-    "name": "Task Manager CLI",
-    "production": true,
-    "img": "https://imgur.com/CMfD1BK.png",
-    "stack": [
-      "Python"
-    ],
-    "desc": "A simple command-line interface (CLI) application for managing tasks, built with Python. This tool allows users to add, view, and delete tasks stored in a JSON file.",
-    "urls": {
-      "github": "https://github.com/lxndrbukin/todolistmanagercli",
-      "live": "https://github.com/lxndrbukin/todolistmanagercli"
-    }
-  }
 ]

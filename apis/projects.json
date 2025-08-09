@@ -2,7 +2,7 @@
   {
     "name": "Password Generator",
     "production": true,
-    "img": "https://i.imgur.com/jLpCFOA.png",
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/passwordgen.png",
     "stack": ["HTML5", "CSS3", "JavaScript"],
     "desc": "The length of the password can be set manually, and all you have to do to copy the password is to click on it. Upon copying the password, message will be displayed, confirming the action.",
     "urls": {
@@ -13,7 +13,7 @@
   {
     "name": "Weatherly",
     "production": true,
-    "img": "https://imgur.com/SEeis1R.png",
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/weatherly.png",
     "stack": ["React", "TypeScript", "Redux", "Sass", "OpenWeather API"],
     "desc": "A simple weather app created and designed to show the current weather conditions as well as a 5-day forecast. Provides weather data based off the name of the city/location provided or the geographical position using the Geolocation API.",
     "urls": {
@@ -24,7 +24,7 @@
   {
     "name": "Task Manager CLI",
     "production": true,
-    "img": "https://imgur.com/2BUI8g2.png",
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/taskcli.png",
     "stack": [
       "Python"
     ],
@@ -37,7 +37,7 @@
   {
     "name": "uniSTORE",
     "production": false,
-    "img": "https://imgur.com/vAB66qo.png",
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/unistore.png",
     "stack": [
       "React",
       "React Router",

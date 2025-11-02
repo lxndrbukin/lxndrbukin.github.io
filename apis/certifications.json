@@ -1,81 +1,59 @@
 [
   {
-    "name": "The Complete Web Development Bootcamp",
-    "img": "https://img-c.udemycdn.com/course/480x270/1565838_e54e_18.jpg",
-    "instructors": ["Dr. Angela Yu"],
+    "name": "Introduction to Python",
+    "img": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/768debf0-e1e4-45e7-8547-edae5d4fa0e1.jpeg?v=1756323925",
+    "instructors": ["Lane Wagner"],
     "stack": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "NodeJS",
-      "ExpressJS",
-      "ReactJS",
-      "Git",
-      "MongoDB"
+      "Fundamentals",
+      "Data Structures",
+      "Functions",
+      "Debugging",
+      "Control Flow",
+      "Exceptions"
     ],
-    "certificate_url": "https://udemy-certificate.s3.amazonaws.com/image/UC-4af05c63-7f96-4393-bfa0-769fd69e187f.jpg?v=1677710173000",
-    "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+    "certificate_url": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/768debf0-e1e4-45e7-8547-edae5d4fa0e1.jpeg?v=1756323925",
+    "url": "https://www.boot.dev/courses/learn-code-python"
   },
   {
-    "name": "The Modern Javascript Bootcamp Course",
-    "img": "https://img-c.udemycdn.com/course/480x270/2634490_e343_3.jpg",
-    "instructors": ["Stephen Grider", "Colt Steele"],
-    "stack": ["JavaScript", "NodeJS", "ExpressJS"],
-    "certificate_url": "https://udemy-certificate.s3.amazonaws.com/image/UC-afc4c9e2-09b2-4d5b-82d7-b67b530fe5f6.jpg?v=1677710163000",
-    "url": "https://www.udemy.com/course/javascript-beginners-complete-tutorial/"
+    "name": "Object-Oriented Programming in Python",
+    "img": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fb5cf0a1-ab02-4c73-9fda-5dc3a1f36093.jpeg?v=1756754317",
+    "instructors": ["Lane Wagner"],
+    "stack": ["OOP", "Classes", "Encapsulation", "Abstraction", "Inheritance", "Polymorphism"],
+    "certificate_url": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fb5cf0a1-ab02-4c73-9fda-5dc3a1f36093.jpeg?v=1756754317",
+    "url": "https://www.boot.dev/courses/learn-object-oriented-programming-python"
   },
   {
-    "name": "JavaScript Pro: Mastering Advanced Concepts and Techniques",
-    "img": "https://img-c.udemycdn.com/course/480x270/5088684_a587_7.jpg",
-    "instructors": ["Colt Steele"],
-    "stack": ["JavaScript"],
+    "name": "Functional Programming in Python",
+    "img": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4646c80b-366c-4574-b031-52e4789d1d0f.jpeg?v=1762104235",
+    "instructors": ["Lane Wagner"],
+    "stack": ["Functions", "Decorators", "Recursion", "Closures"],
     "certificate_url": "https://udemy-certificate.s3.amazonaws.com/image/UC-6d59b04e-f227-41c3-8301-d83fba549418.jpg?v=1705851405000",
-    "url": "https://www.udemy.com/course/pro-javascript/"
+    "url": "https://www.boot.dev/courses/learn-functional-programming-python"
   },
   {
-    "name": "Modern React with Redux",
-    "img": "https://img-c.udemycdn.com/course/480x270/705264_caa9_13.jpg",
-    "instructors": ["Stephen Grider"],
-    "stack": ["React", "React Router", "Redux", "TailwindCSS"],
-    "certificate_url": "https://udemy-certificate.s3.amazonaws.com/image/UC-9db3cd67-3f8e-47fe-b927-0cc847c41014.jpg?v=1677710012000",
-    "url": "https://www.udemy.com/course/react-redux/"
+    "name": "Learn Linux",
+    "img": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/972e2c6a-f95b-4243-882c-87a4867bb16a.jpeg?v=1756559505",
+    "instructors": ["Lane Wagner"],
+    "stack": ["Terminals", "File Systems", "Permissions", "Programs", "Input/Output", "Packages"],
+    "certificate_url": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/972e2c6a-f95b-4243-882c-87a4867bb16a.jpeg?v=1756559505",
+    "url": "https://www.boot.dev/courses/learn-linux"
   },
   {
-    "name": "Node with React: Fullstack Web Development",
-    "img": "https://img-c.udemycdn.com/course/480x270/1254420_f6cb_4.jpg",
-    "instructors": ["Stephen Grider"],
+    "name": "Learn Git",
+    "img": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5fedfd43-baf2-408e-b604-316981d0861e.jpeg?v=1756569407",
+    "instructors": ["ThePrimeagen"],
     "stack": [
-      "React",
-      "React Router",
-      "Redux",
-      "NodeJS",
-      "ExpressJS",
-      "MongoDB"
+      "Repositories",
+      "Config",
+      "Branching",
+      "Merge",
+      "Rebase",
+      "Reset",
+      "Remote",
+      "GitHub",
+      "Gitignore"
     ],
-    "certificate_url": "https://udemy-certificate.s3.amazonaws.com/image/UC-00582c19-7134-4912-ae48-ea9fefd6c015.jpg?v=1678119439000",
-    "url": "https://www.udemy.com/course/node-with-react-fullstack-web-development/"
-  },
-  {
-    "name": "Advanced React and Redux",
-    "img": "https://img-c.udemycdn.com/course/480x270/781532_8b4d_6.jpg",
-    "instructors": ["Stephen Grider"],
-    "stack": [
-      "React",
-      "React Router",
-      "Redux",
-      "NodeJS",
-      "ExpressJS",
-      "MongoDB"
-    ],
-    "certificate_url": "https://udemy-certificate.s3.amazonaws.com/image/UC-5ebf449f-f067-4af3-8ed0-608334b11c6d.jpg?v=1678287671000",
-    "url": "https://www.udemy.com/course/react-redux-tutorial/"
-  },
-  {
-    "name": "Typescript: The Complete Developer's Guide",
-    "img": "https://img-c.udemycdn.com/course/480x270/2337318_abfd_5.jpg",
-    "instructors": ["Stephen Grider"],
-    "stack": ["TypeScript", "NodeJS", "ExpressJS", "React", "Redux"],
-    "certificate_url": "https://udemy-certificate.s3.amazonaws.com/image/UC-814b8f9d-de42-455d-868c-57848fa18d42.jpg?v=1685219976000",
-    "url": "https://www.udemy.com/course/typescript-the-complete-developers-guide/"
+    "certificate_url": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5fedfd43-baf2-408e-b604-316981d0861e.jpeg?v=1756569407",
+    "url": "https://www.boot.dev/courses/learn-git"
   }
 ]

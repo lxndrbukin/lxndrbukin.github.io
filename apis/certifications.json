@@ -18,7 +18,14 @@
     "name": "Object-Oriented Programming in Python",
     "img": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fb5cf0a1-ab02-4c73-9fda-5dc3a1f36093.jpeg?v=1756754317",
     "instructors": ["Lane Wagner"],
-    "stack": ["OOP", "Classes", "Encapsulation", "Abstraction", "Inheritance", "Polymorphism"],
+    "stack": [
+      "OOP",
+      "Classes",
+      "Encapsulation",
+      "Abstraction",
+      "Inheritance",
+      "Polymorphism"
+    ],
     "certificate_url": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fb5cf0a1-ab02-4c73-9fda-5dc3a1f36093.jpeg?v=1756754317",
     "url": "https://www.boot.dev/courses/learn-object-oriented-programming-python"
   },
@@ -34,7 +41,14 @@
     "name": "Learn Linux",
     "img": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/972e2c6a-f95b-4243-882c-87a4867bb16a.jpeg?v=1756559505",
     "instructors": ["Lane Wagner"],
-    "stack": ["Terminals", "File Systems", "Permissions", "Programs", "Input/Output", "Packages"],
+    "stack": [
+      "Terminals",
+      "File Systems",
+      "Permissions",
+      "Programs",
+      "Input/Output",
+      "Packages"
+    ],
     "certificate_url": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/972e2c6a-f95b-4243-882c-87a4867bb16a.jpeg?v=1756559505",
     "url": "https://www.boot.dev/courses/learn-linux"
   },
@@ -55,5 +69,23 @@
     ],
     "certificate_url": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5fedfd43-baf2-408e-b604-316981d0861e.jpeg?v=1756569407",
     "url": "https://www.boot.dev/courses/learn-git"
+  },
+  {
+    "name": "Learn SQL",
+    "img": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9e96b154-93b7-4b8e-8198-a1e88c671901.jpeg?v=1765647530",
+    "instructors": ["Lane Wagner"],
+    "stack": [
+      "Tables",
+      "Constraints",
+      "CRUD",
+      "Basic Queries",
+      "Aggregations",
+      "Subqueries",
+      "Normalization",
+      "Joins",
+      "Performance"
+    ],
+    "certificate_url": "https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9e96b154-93b7-4b8e-8198-a1e88c671901.jpeg?v=1765647530",
+    "url": "https://www.boot.dev/courses/learn-sql"
   }
 ]

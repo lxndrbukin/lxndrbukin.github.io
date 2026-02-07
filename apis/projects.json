@@ -1,5 +1,20 @@
 [
   {
+    "name": "Automated File Organizer",
+    "production": true,
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/file_organizer.png",
+    "stack": [
+      "Python",
+      "pathlib",
+      "openpyxl"
+    ],
+    "desc": "A Python-based automated file organizer that sorts files from a source directory into categorized folders based on file type.",
+    "urls": {
+      "github": "https://github.com/lxndrbukin/Automated-File-Organizer",
+      "live": "https://github.com/lxndrbukin/Automated-File-Organizer"
+    }
+  },
+  {
     "name": "Task Manager CLI",
     "production": true,
     "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/taskcli.png",
@@ -8,8 +23,19 @@
     ],
     "desc": "A simple command-line interface (CLI) application for managing tasks, built with Python. This tool allows users to add, view, and delete tasks stored in a JSON file.",
     "urls": {
-      "github": "https://github.com/lxndrbukin/todolistmanagercli",
-      "live": "https://github.com/lxndrbukin/todolistmanagercli"
+      "github": "https://github.com/lxndrbukin/Task-Manager-CLI",
+      "live": "https://github.com/lxndrbukin/Task-Manager-CLI"
+    }
+  },
+  {
+    "name": "Weatherly",
+    "production": true,
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/weatherly.png",
+    "stack": ["React", "TypeScript", "Redux", "Sass", "OpenWeather API"],
+    "desc": "A simple weather app created and designed to show the current weather conditions as well as a 5-day forecast. Provides weather data based off the name of the city/location provided or the geographical position using the Geolocation API.",
+    "urls": {
+      "github": "https://github.com/lxndrbukin/Weatherly",
+      "live": "https://weatherly-rts.vercel.app/"
     }
   },
   {
@@ -21,17 +47,6 @@
     "urls": {
       "github": "https://github.com/lxndrbukin/password-generator",
       "live": "https://lxndrbukin.github.io/password-generator/"
-    }
-  },
-  {
-    "name": "Weatherly",
-    "production": true,
-    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/weatherly.png",
-    "stack": ["React", "TypeScript", "Redux", "Sass", "OpenWeather API"],
-    "desc": "A simple weather app created and designed to show the current weather conditions as well as a 5-day forecast. Provides weather data based off the name of the city/location provided or the geographical position using the Geolocation API.",
-    "urls": {
-      "github": "https://github.com/lxndrbukin/weatherly-rts",
-      "live": "https://weatherly-rts.vercel.app/"
     }
   }
 ]

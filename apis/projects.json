@@ -45,8 +45,8 @@
     "stack": ["HTML5", "CSS3", "JavaScript"],
     "desc": "The length of the password can be set manually, and all you have to do to copy the password is to click on it. Upon copying the password, message will be displayed, confirming the action.",
     "urls": {
-      "github": "https://github.com/lxndrbukin/password-generator",
-      "live": "https://lxndrbukin.github.io/password-generator/"
+      "github": "https://github.com/lxndrbukin/Password-Generator",
+      "live": "https://lxndrbukin.github.io/Password-Generator/"
     }
   }
 ]

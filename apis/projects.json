@@ -17,14 +17,17 @@
   {
     "name": "Task Manager CLI",
     "production": true,
-    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/taskcli.png",
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/taskclimanager.png",
     "stack": [
-      "Python"
+      "Python",
+      "OpenAI",
+      "Claude",
+      "xAI"
     ],
-    "desc": "A simple command-line interface (CLI) application for managing tasks, built with Python. This tool allows users to add, view, and delete tasks stored in a JSON file.",
+    "desc": "A Python-based command-line task management system with AI-powered natural language processing. Features intelligent task extraction, multi-provider AI support, advanced filtering, and comprehensive task tracking with persistent JSON storage.",
     "urls": {
-      "github": "https://github.com/lxndrbukin/Task-Manager-CLI",
-      "live": "https://github.com/lxndrbukin/Task-Manager-CLI"
+      "github": "https://github.com/lxndrbukin/Task-Manager-CLI-v2.0",
+      "live": "https://github.com/lxndrbukin/Task-Manager-CLI-v2.0"
     }
   },
   {

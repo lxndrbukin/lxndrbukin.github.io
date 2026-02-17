@@ -8,7 +8,7 @@
       "pathlib",
       "openpyxl"
     ],
-    "desc": "A Python-based automated file organizer that sorts files from a source directory into categorized folders based on file type.",
+    "desc": "A Python-based automated file organizer that sorts files from a source directory into categorized folders based on file type. Features an interactive configuration wizard, conflict resolution with auto-renaming, Excel logging for audit trails, and flexible subdirectory organization.",
     "urls": {
       "github": "https://github.com/lxndrbukin/Automated-File-Organizer",
       "live": "https://github.com/lxndrbukin/Automated-File-Organizer"

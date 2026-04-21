@@ -2,7 +2,7 @@
   {
     "name": "ThinkFlow",
     "production": true,
-    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/Screenshot%20From%202026-04-21%2019-43-05.png",
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/taskflow.png",
     "stack": [
       "Python",
       "React",

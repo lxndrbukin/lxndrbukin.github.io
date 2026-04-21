@@ -1,5 +1,23 @@
 [
   {
+    "name": "ThinkFlow",
+    "production": true,
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/Screenshot%20From%202026-04-21%2019-43-05.png",
+    "stack": [
+      "Python",
+      "React",
+      "Redux Toolkit",
+      "OpenAI API",
+      "FastAPI",
+      "SQLAlchemy"
+    ],
+    "desc": "A full-stack AI-powered personal assistant built with Python and React. Features real-time streaming responses, tool calling (weather, notes, web search, datetime), multiple conversation threads, and a polished web interface.",
+    "urls": {
+      "github": "https://github.com/lxndrbukin/ThinkFlow",
+      "live": "https://thinkflow-eosin.vercel.app/"
+    }
+  },
+  {
     "name": "Automated File Organizer",
     "production": true,
     "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/file_organizer.png",

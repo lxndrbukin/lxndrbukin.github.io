@@ -49,9 +49,9 @@
     "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/taskclimanager.png",
     "stack": [
       "Python",
-      "OpenAI",
-      "Claude",
-      "xAI"
+      "OpenAI API",
+      "Claude API",
+      "xAI API"
     ],
     "desc": "A Python-based command-line task management system with AI-powered natural language processing. Features intelligent task extraction, multi-provider AI support, advanced filtering, and comprehensive task tracking with persistent JSON storage.",
     "urls": {

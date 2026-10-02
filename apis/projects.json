@@ -1,5 +1,24 @@
 [
   {
+    "name": "SmartMobili",
+    "production": true,
+    "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/smartmobili.png",
+    "stack": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "React",
+      "TypeScript",
+      "Redux Toolkit"
+    ],
+    "desc": "A bilingual (Romanian and Russian) furniture catalogue and business platform built for a family furniture company. Features a secured admin area with full CRUD and image uploads, a multilingual interface, and a Telegram bot that notifies the business whenever a customer enquiry is submitted. FastAPI and PostgreSQL backend on Render, React frontend on Vercel.",
+    "urls": {
+      "github": "https://github.com/lxndrbukin/SmartMobili",
+      "live": "https://www.smartmobili-md.com/ro"
+    }
+  },
+  {
     "name": "ThinkFlow",
     "production": true,
     "img": "https://raw.githubusercontent.com/lxndrbukin/lxndrbukin.github.io/refs/heads/main/projects/images/taskflow.png",
